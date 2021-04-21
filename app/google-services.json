@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "113138293431",
+    "project_id": "arabamisat-d3a7d",
+    "storage_bucket": "arabamisat-d3a7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113138293431:android:1e231d6ed7ea7abb694b32",
+        "android_client_info": {
+          "package_name": "com.yaseminuctas.arabamisat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113138293431-k545dr31hcesva67skutc18oa3cluehd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-gV2E6_0zvhxKlhRlLkGALwa0K1adZ-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113138293431-k545dr31hcesva67skutc18oa3cluehd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

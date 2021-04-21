@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ArabamiSat</string>
+    <string name="upload">Yükle</string>
+    <string name="select_gallery">Galeriden Seç</string>
+    <string name="car_model">Araba Modeli:</string>
+    <string name="transmission">Vites:</string>
+    <string name="year">Yıl:</string>
+    <string name="km">Km:</string>
+    <string name="car_image">Araba Görseli:</string>
+</resources>
